@@ -1,9 +1,27 @@
-# title :taco:
+# Vehicles :taco:
 
-### description 
+### This project is to create different types of vehicles including cars and planes.
 
-
-### explain what methods are available (Abstraction)
+### Attributes
+Some attributes include
+```
+Number of passengers the vehicle it is carrying
+The size of cargo the vehicle is carrying
+The brand - for cars only
+Horse Power - for cars only
+Max speed - for cars only
+type of plane - for plane only
+```
+### Methods
+Some methods include
+```
+Speeding up
+Slowing down
+Parking - for cars only
+honk - for cars only
+fly - for planes only
+land - for planes only
+```
 
 ### learning outcomes
 - git
