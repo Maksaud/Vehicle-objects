@@ -1,6 +1,8 @@
 # import all the classes
 from car_class import *
+from plane_class import *
 from vehicle_class import *
+
 # create 2 vehicle instances
 bus = Vehicle(20, 300)
 van = Vehicle(2, 300)
@@ -24,3 +26,10 @@ print(your_car.park())
 # create 2 plane instances here
 # make plane accelerate and make them break
 # make plane fly and land
+plane1 = Plane(300, 300, 'AB')
+plane2 = Plane(200, 200, 'NOT AB')
+
+print(plane1.accelerate())
+print(plane2.car_break())
+print(plane1.fly())
+print(plane2.land())
