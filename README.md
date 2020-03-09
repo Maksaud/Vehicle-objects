@@ -2,6 +2,15 @@
 
 ### This project is to create different types of vehicles including cars and planes.
 
+### Classes
+Classes:
+```
+Vehicle classes - takes in the size of cargo and the number of n_passengers
+Car class - Inherited from Vehicles class and takes in vehicle class' arguments as well as max speed, horse power and brand
+Plane Class - Inherited from Vehicles class and takes in type as an argument
+```
+
+
 ### Attributes
 Some attributes include
 ```
