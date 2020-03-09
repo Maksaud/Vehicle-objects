@@ -20,4 +20,3 @@ class Car(Vehicle):
 
     def honk(self):
         return 'beep beep'
-
